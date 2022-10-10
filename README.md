@@ -1,2 +1,2 @@
 # FrontEnd-Store
-Esta es una Pagina de ropa realizada en Html y Css
+This is a clothing Page made in Html and Css..
